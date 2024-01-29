@@ -23,6 +23,11 @@ namespace Homework6.Controllers
             return View();
         }
 
+        public IActionResult Spot()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

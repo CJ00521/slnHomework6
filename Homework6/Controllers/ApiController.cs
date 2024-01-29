@@ -1,5 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using MSIT155Site.Models;
+﻿using Homework6.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace MSIT155Site.Controllers
 {
